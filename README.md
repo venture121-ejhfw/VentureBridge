@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VentureBridge
 
 VentureBridge is a modern, professional MERN stack startup-investor discovery and collaboration platform. It connects entrepreneurs with suitable investors through intelligent matching, enabling meaningful connections without handling actual investments or payments.
@@ -312,3 +313,6 @@ This is a comprehensive platform. When contributing:
 ## 🆘 Support
 
 For issues and questions, please check the API documentation or create an issue in the repository.
+=======
+# VentureBridge
+>>>>>>> 531623d1d804bf7093703f171064b55e80c0bc39
